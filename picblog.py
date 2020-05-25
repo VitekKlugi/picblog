@@ -65,4 +65,4 @@ def images(file_name):
 
 
 #spustim server na adrese localhost a portu 8080...url tedy bude http://localhost:8080
-run(app, host='localhost', port=8080, debug=True)
+#run(app, host='localhost', port=8080, debug=True)
